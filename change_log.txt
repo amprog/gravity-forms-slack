@@ -1,0 +1,25 @@
+-----------------------------------------------------------
+1.2.1
+	- Fixed PHP warning related to attachments.
+
+-----------------------------------------------------------
+1.2
+	- Added support for attaching images to messages.
+    - Added gf_slack() for easily getting a Slack instance.
+
+-----------------------------------------------------------
+1.1.1
+	- Added support for custom message icons.
+
+-----------------------------------------------------------
+1.1
+	- Added support for sending messages to private groups and users.
+
+-----------------------------------------------------------
+1.0.1
+	- Added Spanish (es_ES) translation.
+	- Prevent empty messages from being posted to room.
+
+-----------------------------------------------------------
+1.0
+	- It's all new!
